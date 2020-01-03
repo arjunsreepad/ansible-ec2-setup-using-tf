@@ -1,0 +1,5 @@
+image_id = "ami-00068cd7555f543d5"
+access_id = "AKIA6GVBZKCAJZWDCVSR"
+secret_key = "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"
+awsKey = "aws-virginia"
+region = "us-east-1"
